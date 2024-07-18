@@ -1,131 +1,138 @@
 A competitive programming (CP) sheet from CP-Algorithms.com can be highly beneficial. Here's a structured list covering various topics with key algorithms and concepts for each.
 
-### 1. **Basic Techniques**
+### Basic Level
+1. **Mathematics**
+   - **Number Theory**
+     - Prime Numbers
+     - GCD & LCM
+     - Modular Arithmetic
+     - Modular Exponentiation
+     - Modular Inverses
 
-- **Sorting**
-  - Bubble Sort
-  - Insertion Sort
-  - Selection Sort
-  - Merge Sort
-  - Quick Sort
-  - Heap Sort
+2. **Data Structures**
+   - **Arrays**
+     - Sorting (Bubble, Selection, Insertion)
+     - Searching (Linear, Binary)
+     - Two-Pointer Technique
+     - Sliding Window Technique
 
-- **Searching**
-  - Linear Search
-  - Binary Search
+   - **Strings**
+     - Basic String Operations
+     - Pattern Matching (Naive, KMP)
+     - String Reversal
+     - Anagram Check
 
-- **Bit Manipulation**
-  - Bitwise Operations
-  - Counting Bits
-  - Bit Masks
+3. **Bit Manipulation**
+   - Basic Bitwise Operations
+   - Counting Set Bits
+   - Bit Masks
 
-### 2. **Data Structures**
+### Intermediate Level
+1. **Mathematics**
+   - **Combinatorics**
+     - Permutations and Combinations
+     - Binomial Theorem
 
-- **Arrays**
-  - Basic Operations
-  - Two-Pointer Technique
-  - Sliding Window Technique
+   - **Probability**
+     - Basic Probability Theory
+     - Conditional Probability
 
-- **Strings**
-  - String Matching
-  - KMP Algorithm
-  - Z Algorithm
-  - Rabin-Karp Algorithm
+2. **Geometry**
+   - **Basic Geometry**
+     - Points, Lines, and Angles
+     - Triangles, Circles, and Polygons
 
-- **Linked Lists**
-  - Single and Doubly Linked Lists
-  - Circular Linked Lists
+   - **Advanced Geometry**
+     - Convex Hull
+     - Line Intersection
+     - Closest Pair of Points
+     - Point in Polygon
 
-- **Stacks and Queues**
-  - Basic Operations
-  - Monotonic Stack/Queue
+3. **Data Structures**
+   - **Linked Lists**
+     - Single and Doubly Linked Lists
+     - Circular Linked Lists
 
-- **Trees**
-  - Binary Trees
-  - Binary Search Trees (BST)
-  - AVL Trees
-  - Segment Trees
-  - Fenwick Trees (Binary Indexed Trees)
-  - Trie (Prefix Trees)
+   - **Stacks and Queues**
+     - Implementation and Applications
+     - Monotonic Stack/Queue
 
-- **Graphs**
-  - Graph Representation
-  - BFS and DFS
-  - Shortest Path Algorithms (Dijkstra, Bellman-Ford, Floyd-Warshall)
-  - Minimum Spanning Tree (Kruskal, Prim)
-  - Topological Sorting
-  - Strongly Connected Components (Tarjan's Algorithm)
-  - Maximum Flow (Ford-Fulkerson, Edmonds-Karp)
+### Advanced Level
+1. **Mathematics**
+   - **Advanced Number Theory**
+     - Euler's Totient Function
+     - Sieve of Eratosthenes
+     - Chinese Remainder Theorem
+     - Fermat's Little Theorem
 
-### 3. **Dynamic Programming**
+   - **Discrete Mathematics**
+     - Graph Theory
+     - Set Theory
 
-- **Knapsack Problem**
-- **Longest Common Subsequence**
-- **Longest Increasing Subsequence**
-- **Matrix Chain Multiplication**
-- **Fibonacci Sequence**
-- **Coin Change Problem**
-- **Edit Distance**
-- **Subset Sum Problem**
+2. **Data Structures**
+   - **Trees**
+     - Binary Trees, Binary Search Trees
+     - AVL Trees, Segment Trees
+     - Fenwick Trees (Binary Indexed Trees)
+     - Trie (Prefix Trees)
 
-### 4. **Mathematics**
+   - **Graphs**
+     - Graph Representation
+     - DFS, BFS
+     - Shortest Path Algorithms (Dijkstra, Bellman-Ford, Floyd-Warshall)
+     - Minimum Spanning Tree (Kruskal, Prim)
+     - Topological Sorting
+     - Strongly Connected Components (Tarjan's Algorithm)
+     - Maximum Flow (Ford-Fulkerson, Edmonds-Karp)
 
-- **Number Theory**
-  - Prime Numbers (Sieve of Eratosthenes)
-  - GCD and LCM (Euclidean Algorithm)
-  - Modular Arithmetic (Addition, Subtraction, Multiplication, Exponentiation)
-  - Modular Inverses
-  - Chinese Remainder Theorem
-  - Euler's Totient Function
-  - Fermat's Little Theorem
+3. **Algorithms**
+   - **Dynamic Programming**
+     - Knapsack Problem
+     - Longest Common Subsequence (LCS)
+     - Longest Increasing Subsequence (LIS)
+     - Matrix Chain Multiplication
+     - Fibonacci Sequence
+     - Coin Change Problem
+     - Edit Distance
+     - Subset Sum Problem
 
-- **Combinatorics**
-  - Permutations and Combinations
-  - Binomial Coefficients
+   - **Greedy Algorithms**
+     - Activity Selection
+     - Huffman Coding
+     - Fractional Knapsack Problem
+     - Job Sequencing Problem
+     - Dijkstra's Shortest Path Algorithm
 
-- **Probability**
-  - Basic Probability Theory
-  - Conditional Probability
+   - **Network Algorithms**
+     - Minimum Spanning Tree (MST)
+     - Network Flow (Dinic's Algorithm, Push-Relabel Algorithm)
 
-### 5. **Geometry**
+4. **Advanced Topics**
+   - **Computational Geometry**
+     - Point Location
+     - Voronoi Diagrams
+     - Triangulation
+     - Bentley-Ottmann Algorithm for Line Segment Intersection
 
-- **Basic Geometry**
-  - Points, Lines, and Angles
-  - Triangles, Circles, and Polygons
-  - Convex Hull (Graham Scan, Jarvis March)
-  - Line Intersection
-  - Closest Pair of Points
-  - Point in Polygon
+   - **String Algorithms**
+     - Suffix Arrays
+     - Trie
+     - Suffix Trees
+     - Aho-Corasick Algorithm
 
-### 6. **Advanced Topics**
+   - **Randomized Algorithms**
+     - Randomized Quick Sort
+     - Randomized Select
+     - Monte Carlo Method
+     - Las Vegas Algorithm
 
-- **Graph Algorithms**
-  - Bridges and Articulation Points
-  - Eulerian Path and Circuit
-  - Hamiltonian Path and Circuit
+   - **Miscellaneous Algorithms**
+     - Union-Find (Disjoint Set Union)
+     - Mo's Algorithm
+     - Fast Fourier Transform (FFT)
+     - Sparse Table
 
-- **Network Flow**
-  - Dinic's Algorithm
-  - Push-Relabel Algorithm
-
-- **String Algorithms**
-  - Suffix Arrays
-  - Suffix Trees
-  - Aho-Corasick Algorithm
-
-- **Randomized Algorithms**
-  - Randomized Quick Sort
-  - Randomized Select
-  - Monte Carlo Method
-  - Las Vegas Algorithm
-
-- **Miscellaneous Algorithms**
-  - Union-Find (Disjoint Set Union)
-  - Mo's Algorithm
-  - Fast Fourier Transform (FFT)
-  - Sparse Table
-
-### 7. **Optimization Techniques**
+### Optimization Techniques
 
 - **Precomputation**
   - Factorials and Inverses
@@ -142,13 +149,13 @@ A competitive programming (CP) sheet from CP-Algorithms.com can be highly benefi
   - Using `unordered_map` instead of `map`
   - Avoiding unnecessary large data structures
 
-### 8. **Common Patterns**
+### Common Patterns
 
 - **Two Pointer Technique**
 - **Sliding Window Technique**
 - **Meet in the Middle**
 
-### 9. **Advanced Data Structures**
+### Advanced Data Structures
 
 - **Segment Trees**
   - Range Sum Queries
@@ -161,4 +168,5 @@ A competitive programming (CP) sheet from CP-Algorithms.com can be highly benefi
 - **Persistent Data Structures**
   - Persistent Segment Trees
 
+-------
 This CP sheet should guide you for your competitive programming preparation. Make sure to practice problems associated with each topic to solidify your understanding and application of these concepts.
