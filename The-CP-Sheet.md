@@ -150,16 +150,6 @@ A structured list covering various topics with key algorithms and concepts for e
   - Euler's Totient Function
   - Mobius Function
 
-### Optimization Techniques (c++)
-
-- **Efficient I/O**
-  - `ios::sync_with_stdio(false); cin.tie(0); cout.tie(0);`
-- **Memory Optimization**
-  - `unordered_map` vs `map`
-- **Precomputation**
-  - Factorials and Inverses
-  - Sieve of Eratosthenes
-
 ### Advanced Techniques
 
 - **Divide and Conquer**
@@ -177,6 +167,9 @@ A structured list covering various topics with key algorithms and concepts for e
 - **Sliding Window Technique**
 - **Meet in the Middle**
 
+### Precomputation
+  - **Factorials and Inverses**
+  - **Sieve of Eratosthenes**
 ---
 
 This sheet covers a broad spectrum of topics and algorithms essential for competitive programming, from basic techniques to advanced data structures and optimization strategies. Each section includes fundamental concepts, algorithms, and advanced topics to help you build a strong foundation and excel in competitive programming contests.Make sure to practice problems associated with each topic to solidify your understanding and application of these concepts.

@@ -1,0 +1,7 @@
+*.exe
+
+/.idea
+/.vs
+/.vscode
+.idea   
+.vs
