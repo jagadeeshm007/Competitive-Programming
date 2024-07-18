@@ -1,4 +1,4 @@
-A structured list covering various topics with key algorithms and concepts for each.
+A structured list covering various topics with key algorithms and concepts for each
 ---
 
 # Competitive Programming Sheet
