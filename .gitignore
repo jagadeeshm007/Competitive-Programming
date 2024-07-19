@@ -5,3 +5,10 @@
 /.vscode
 .idea   
 .vs
+
+*.txt
+*.log
+\My_CPP-Snippet
+
+\My_CPP-Snippet\Program.cpp
+/My_CPP-Snippet/Program.cpp
