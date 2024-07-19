@@ -3,9 +3,5 @@
 /.idea
 /.vs
 /.vscode
-.idea   
-.vs
-.vscode
 
-.\My_CPP-Snippet\
-./My_CPP-Snippet/
+My_CPP-Snippet/
