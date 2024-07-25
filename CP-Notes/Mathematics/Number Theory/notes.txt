@@ -1,0 +1,17 @@
+Some of the more advanced properties of congruence relations are the following:
+
+Fermat's little theorem: If p is prime and does not divide a, then ap−1 ≡ 1 (mod p).
+
+Euler's theorem: If a and m are coprime, then aφ(m) ≡ 1 (mod m), where φ is Euler's totient function.
+A simple consequence of Fermat's little theorem is that if p is prime, then a−1 ≡ ap−2 (mod p) is the multiplicative inverse of 0 < a < p. More generally, from Euler's theorem, if a and m are coprime, then a−1 ≡ aφ(m)−1 (mod m).
+Another simple consequence is that if a ≡ b (mod φ(m)), where φ is Euler's totient function, then ka ≡ kb (mod m) provided k is coprime with m.
+
+Wilson's theorem: p is prime if and only if (p − 1)! ≡ −1 (mod p).
+
+Chinese remainder theorem: For any a, b and coprime m, n, there exists a unique x (mod mn) such that x ≡ a (mod m) and x ≡ b (mod n). In fact, x ≡ b mn−1 m + a nm−1 n (mod mn) where mn−1 is the inverse of m modulo n and nm−1 is the inverse of n modulo m.
+
+Lagrange's theorem: If p is prime and f (x) = a0 xd + ... + ad is a polynomial with integer coefficients such that p is not a divisor of a0, then the congruence f (x) ≡ 0 (mod p) has at most d non-congruent solutions.
+Primitive root modulo m: A number g is a primitive root modulo m if, for every integer a coprime to m, there is an integer k such that gk ≡ a (mod m). A primitive root modulo m exists if and only if m is equal to 2, 4, pk or 2pk, where p is an odd prime number and k is a positive integer. If a primitive root modulo m exists, then there are exactly φ(φ(m)) such primitive roots, where φ is the Euler's totient function.
+
+Quadratic residue: An integer a is a quadratic residue modulo m, if there exists an integer x such that x2 ≡ a (mod m). Euler's criterion asserts that, if p is an odd prime, and a is not a multiple of p, then a is a quadratic residue modulo p if and only if
+a(p−1)/2 ≡ 1 (mod p).

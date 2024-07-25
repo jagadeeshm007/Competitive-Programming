@@ -44,7 +44,7 @@ bool miller_rabin(ll p, ll iteration) {
 void solve() {
     ll n;
     cin >> n;
-    const int limit = 50;
+    const int limit = 50; // limit of iteration for miller rabin primality test algorithm upto 1<=n<=10^18 
     if (miller_rabin(n, limit)) cout << "YES\n";
     else cout << "NO\n";
 }
